@@ -62,6 +62,7 @@
     <Build Include="Account.sql" />
     <Build Include="Asset.sql" />
     <Build Include="Bundle.sql" />
+    <Build Include="Instance.sql" />
   </ItemGroup>
   <ItemGroup>
     <None Include="SQL.publish.xml" />
