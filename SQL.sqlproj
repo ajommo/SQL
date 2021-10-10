@@ -66,5 +66,10 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="SQL.publish.xml" />
+    <None Include="Insert.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <PreDeploy Include="Drop.sql" />
+    <None Include="Script.PreDeployment1.sql" />
   </ItemGroup>
 </Project>
