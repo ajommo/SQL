@@ -1,4 +1,5 @@
 ﻿INSERT INTO Bundle VALUES ('primitives', 'Primitives', 1, 1)
+INSERT INTO Bundle VALUES ('terrains', 'Terrains', 1, 1)
 
 INSERT INTO Asset VALUES ('cube', 'Cube', 1, 1, 'Cube', 'primitives')
 
